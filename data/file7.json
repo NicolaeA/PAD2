@@ -1,0 +1,16 @@
+{
+  "angajati": [
+    {
+      "nume":"Vrabie",
+      "prenume":"Ion",
+      "salariu":"7000"
+
+    },
+    {
+      "nume":"Fulger",
+      "prenume":"Dima",
+      "salariu":"8000"
+
+    }
+  ]
+}

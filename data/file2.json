@@ -1,0 +1,25 @@
+{
+  "angajati": [
+    {
+      "nume":"Guidea",
+      "prenume":"Marin",
+      "salariu":"2500"
+
+    },
+    {
+      "nume":"Vadim",
+      "prenume":"Mazur",
+      "salariu":"1000"
+    },
+    {
+      "nume":"Andrusciac",
+      "prenume":"Nicolae",
+      "salariu":"15000"
+    },
+    {
+      "nume":"Negara",
+      "prenume":"Ion",
+      "salariu":"1500"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "angajati": [
+    {
+      "nume":"Popescu",
+      "prenume":"Olga",
+      "salariu":"3000"
+
+    },
+    {
+      "nume":"Ghita",
+      "prenume":"basea",
+      "salariu":"4500"
+    }
+  ]
+}

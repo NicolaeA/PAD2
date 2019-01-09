@@ -1,0 +1,27 @@
+{
+  "angajati": [
+    {
+      "nume":"Gigi",
+      "prenume":"Ion",
+      "salariu":"3200"
+    },
+    {
+      "nume":"Iurciuc",
+      "prenume":"Mihai",
+      "salariu":"4500"
+
+    },
+    {
+      "nume":"Batiru",
+      "prenume":"Elena",
+      "salariu":"5500"
+
+    },
+    {
+      "nume":"Jelez",
+      "prenume":"Gicu",
+      "salariu":"3000"
+
+    }
+  ]
+}
